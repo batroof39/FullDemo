@@ -15,7 +15,7 @@ namespace ConsoleUI
                 var app = scope.Resolve<IAppliction>();
                 app.Run();
             }
-            Console.ReadLine();
+            Console.WriteLine("abdo");
             Console.ReadLine();
         }
     }
