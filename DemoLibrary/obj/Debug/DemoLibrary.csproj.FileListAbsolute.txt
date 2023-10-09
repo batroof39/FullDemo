@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\DemoLibrary\bin\Debug\DemoLibrary.dll
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\DemoLibrary\bin\Debug\DemoLibrary.pdb
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\DemoLibrary\obj\Debug\DemoLibrary.dll
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\DemoLibrary\obj\Debug\DemoLibrary.pdb

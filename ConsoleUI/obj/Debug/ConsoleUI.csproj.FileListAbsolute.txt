@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\DemoLibrary.dll
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\DemoLibrary.pdb
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\asus\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\Autofac.dll
+C:\Users\ASUS\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\Autofac.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\DependincyInjactionAutofac\ConsoleUI\bin\Debug\Autofac.xml
