@@ -16,6 +16,7 @@ namespace ConsoleUI
                 app.Run();
             }
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
